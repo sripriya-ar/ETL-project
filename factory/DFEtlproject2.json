@@ -1,0 +1,9 @@
+{
+	"name": "DFEtlproject2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "332ef361-e566-466b-bcc7-9c7d3229382a",
+		"tenantId": "403b1d33-a765-479f-82b1-75bd3a4a7a33"
+	}
+}
